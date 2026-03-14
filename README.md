@@ -1,2 +1,2 @@
-# gururh
+# rhichyl
 Config files for my GitHub profile.
